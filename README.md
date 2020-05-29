@@ -9,4 +9,4 @@ real data sets suggest that the composition matrix over multiple samples is appr
 low rank, which motivates a regularized maximum likelihood estimation with a nuclear
 norm penalty. An efficient optimization algorithm using the generalized accelerated proximal gradient and Euclidean projection onto simplex space is developed. 
 
-Reference: https://arxiv.org/pdf/1706.02380.pdf
+Reference: https://academic.oup.com/biomet/article-abstract/107/1/75/5663561
